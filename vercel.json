@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "builds": [{ "src": "api/merge.js", "use": "@vercel/node" }]
+  "builds": [
+    { "src": "api/fusion.js", "use": "@vercel/node" }
+  ]
 }
